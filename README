@@ -1,0 +1,17 @@
+TUTORIAL DE USO
+
+Se realizará la conexión una vez se trate de iniciar sesión con usuario
+si la cuenta es de administrador, se darán permisos extra
+
+(Al no funcionar la conexión con la base de datos, la contraseña "admin" da permisos de administrador)
+
+Administrador:
+Se permitirá acceder a la base de datos para añadir doctores
+
+Usuario y administrador:
+Se permitirá acceder a la base de datos para añadir clientes
+Se permitirá acceder a la base de datos para crear citas
+
+Seleccionar la opción 3 cerrará el programa
+
+La base de datos si fué creada, está en el archivo .db (SQLite)
