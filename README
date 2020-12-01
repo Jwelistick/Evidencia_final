@@ -15,3 +15,15 @@ Se permitirá acceder a la base de datos para crear citas
 Seleccionar la opción 3 cerrará el programa
 
 La base de datos si fué creada, está en el archivo .db (SQLite)
+
+Instalación:
+Se debe tener un IDE que funcione con Java (IntelliJ  IDEA) para poder correr el archivo, descargar todos los datos y correr el programa
+
+Créditos:
+Ernesto Joel Valle Vázquez (2889779)
+
+Licencia:
+Java
+Intellij IDEA 2020
+SQLite
+
